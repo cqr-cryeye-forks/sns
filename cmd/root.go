@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/sw33tLie/sns/pkg/scanner"
+	"github.com/cqr-cryeye-forks/sns/pkg/scanner"
 
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/viper"
