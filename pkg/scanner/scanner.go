@@ -14,7 +14,7 @@ import (
 	"github.com/enriquebris/goconcurrentqueue"
 	"github.com/olekukonko/tablewriter"
 	cmap "github.com/orcaman/concurrent-map"
-	"github.com/sw33tLie/sns/internal/utils"
+	"github.com/cqr-cryeye-forks/sns/internal/utils"
 )
 
 var magicFinalParts = [12]string{"\\a.aspx", "\\a.asp", "/a.aspx", "/a.asp", "/a.shtml", "/a.asmx", "/a.ashx", "/a.config", "/a.php", "/a.jpg", "/webresource.axd", "/a.xxx"}
