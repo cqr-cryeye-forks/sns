@@ -1,6 +1,6 @@
 package main
 
-import "github.com/cqr-cryeye-forks/sns/cmd"
+import "github.com/sw33tLie/sns/cmd"
 
 func main() {
 	cmd.Execute()
