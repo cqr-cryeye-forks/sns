@@ -1,4 +1,4 @@
-module github.com/sw33tLie/sns
+module github.com/cqr-cryeye-forks/sns
 
 go 1.15
 
